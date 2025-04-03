@@ -1,0 +1,29 @@
+purpose, purpose_long
+WR, weapons related
+COMBAT, Used in war combat
+WE, (used for British French and US tests) to evaluate the effects of a nuclear detonation on various targets
+ME,Test conducted in the context of a military exercise with a real nuclear detonation
+SE,(used for French and US tests) tests to determine the safety of nuclear weapons in case of accident
+FMS,(used for Soviet tests) To study the phenomena of a nuclear explosion
+SB, unknown
+SAM,(used for Soviet tests) Tests to study accidental modes and emergencies
+PNE:PLO,Peaceful nuclear explosion Plowshare Programme
+TRANSP,Transportation-storage purposes
+PNE:V, Peaceful nuclear explosion Vela Uniform Test
+nan, error
+PNE, Peaceful nuclear explosion
+WR/SE, weapons related/(used for French and US tests) tests to determine the safety of nuclear weapons in case of accident
+WR/WE,weapons related/ (used for British French and US tests) to evaluate the effects of a nuclear detonation on various targets
+WR/PNE,weapons related/Peaceful nuclear explosion
+WR/SAM,weapons related/(used for Soviet tests) Tests to study accidental modes and emergencies
+PNE/WR,Peaceful nuclear explosion/weapons related
+SE/WR,(used for French and US tests) tests to determine the safety of nuclear weapons in case of accident/weapons related
+WR/P/SA,weapons related/Peaceful nuclear explosion/unknown
+WE/SAM,(used for British French and US tests) to evaluate the effects of a nuclear detonation on various targets/(used for Soviet tests) Tests to study accidental modes and emergencies
+WE/WR,(used for British French and US tests) to evaluate the effects of a nuclear detonation on various targets/weapons related
+WR/F/SA,weapons related/unknown/unknown
+WR/FMS,weapons related/(used for Soviet tests) To study the phenomena of a nuclear explosion
+FMS/WR,(used for Soviet tests) To study the phenomena of a nuclear explosion/weapons related
+WR/P/S,weapons related/unknown/unknown
+WR/F/S,weapons related/unknown/unknown
+WR/WE/S,weapons related/(used for British French and US tests) to evaluate the effects of a nuclear detonation on various targets/unknown
